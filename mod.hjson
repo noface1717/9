@@ -1,0 +1,7 @@
+name: "NofaceMod1"
+//displayName: "[orange]mod"
+displayName: "[gold]FacelessMod"
+author: "thin[orange]NoFace"
+description: "Random Stuff"
+version: "1.0"
+minGameVersion: "105"
